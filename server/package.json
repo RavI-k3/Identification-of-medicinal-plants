@@ -17,5 +17,13 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavI-k3/Identification-of-medicinal-plants.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RavI-k3/Identification-of-medicinal-plants/issues"
+  },
+  "homepage": "https://github.com/RavI-k3/Identification-of-medicinal-plants#readme"
 }
